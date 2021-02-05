@@ -82,3 +82,7 @@ A1 域名会保存在目录下的 domain_A1.txt 里
 A1P 域名会保存在目录下的 domain_A1P.txt 里
 
 没什么想说的了, 想到了再补充
+
+
+pip install PySocks
+sudo apt-get install python-socks
